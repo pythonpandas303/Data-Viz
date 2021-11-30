@@ -1,2 +1,2 @@
 # Data-Viz
-A repository for data visualization in all languages
+A repository for data visualization in all languages. 
